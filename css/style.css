@@ -1,0 +1,23 @@
+/* Basic styles */
+body {
+  font-family: Lato, sans-serif; /* Using the Google Font you linked */
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, p {
+  margin: 0;
+  padding: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #333;
+}
+
+/* Further styles based on your theme and desired customization */
+
